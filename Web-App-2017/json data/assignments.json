@@ -1,0 +1,38 @@
+{
+  "web applications": [{
+    "ca test": [{
+      "due date":"10/10/2017",
+      "time":"1:00pm",
+      "weighting":"15%"
+    }],
+    "presentation": [{
+      "due date":"16/11/2017",
+      "time":"1:00pm",
+      "weighting":"25%"
+    }],
+    "project" : [{
+      "due date":"12/12/2017",
+      "time":"11:00pm",
+      "weighting":"60%"
+    }]
+  }]
+}
+{
+	"programming": [{
+	 "practice test":[{
+	  "due date":"8/11/2017",
+	  "time":"9:00am",
+	  "weighting":"0%"
+	 }],
+	 "project"[{
+	  "due date":"5/12/2017",
+	  "time":"11:55pm",
+	  "weighting":"50%"
+	 }]
+	 "ca test":[{
+	  "duedate":"12/12/2017",
+	  "time":"9:00am",
+	  "weighting":"50%"
+	 }]
+	}]
+}

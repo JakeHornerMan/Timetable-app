@@ -1,0 +1,42 @@
+
+#logo {
+	width:65%;
+	display: block;
+	margin: auto;
+}
+#ans	{
+	display: block;
+	text-align: center;
+}
+#spacer	{
+	height:5px;
+}
+#submit	{
+	display: block;
+	margin: 0 auto;
+}
+#output{
+	color:red;
+	text-align:center;
+}
+table   {
+    background-color: black;
+}
+th  {
+    color:black;
+}
+tr  {
+    background-color: white;
+}
+#noClass	{
+	background-color:slategrey;
+}
+#blue	{
+	color:blue;
+}
+#black	{
+	color:black;
+}
+#red {
+	color: red;
+}
